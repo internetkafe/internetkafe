@@ -20,6 +20,5 @@ Hi! I'm **InternetKafe**. I develop open-source projects and share code. If you'
 
 ### 🌐 Contacts & social
 
-- [Telegram channel](https://t.me/inetkafe)
 
 Thanks for your support! 🙏
